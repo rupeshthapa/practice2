@@ -1,13 +1,12 @@
-.App-header nav ul{
+.App nav ul{
   list-style-type: none;
-  padding:0%;
+  padding: 0;
 }
-
-.App-header nav ul li{
+.App nav ul li{
   display: inline;
   margin-right: 10px;
 }
-.App-header nav ul li a{
+.App nav ul li a{
   text-decoration: none;
   color: black;
 }
